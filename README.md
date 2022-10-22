@@ -1,1 +1,1 @@
-# Leraning new stuff on GIT
+# Learning new stuff on GIT
